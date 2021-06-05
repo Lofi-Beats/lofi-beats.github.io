@@ -51,7 +51,6 @@ h2 {
   left: 0;
   padding: 35px;
   z-index: 2;
-  color: white;
 }
 .hamburger-menu button {
   position: relative;
@@ -61,12 +60,11 @@ h2 {
   background: none;
   padding: 0;
   cursor: pointer;
-  color: white;
 }
 .hamburger-menu button span {
   position: absolute;
   height: 3px;
-  background: #000;
+  background: #fff;
   width: 100%;
   left: 0px;
   top: 0px;
